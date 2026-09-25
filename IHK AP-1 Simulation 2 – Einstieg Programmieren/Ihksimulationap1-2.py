@@ -1,0 +1,2 @@
+ergebnis = (12-4) * (2+6)
+print(ergebnis)
